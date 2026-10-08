@@ -1,0 +1,1 @@
+{"categoryies": {"car": 1, "pedestrian": 2, "bicycle": 3, "trailer": 4, "motorcycle": 5, "truck": 6, "bus": 7, "scooter": 8, "streetcar": 9}, "coordinates": {"global": "UTM32N", "offset_x": 692009.0, "offset_y": 5338095.0}, "reference_time": {"0": "14:59:25"}}
